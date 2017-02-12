@@ -1,0 +1,224 @@
+.body1{
+    background: black;
+    padding-top: 20px;
+    background-image: url("../img/kali6.jpg");
+    height: 1000px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 100%;
+    background-attachment: fixed;
+    opacity: 0.8;
+}
+.body2{
+    background: black;
+    padding-top: 20px;
+    background-image: url("../img/android1.jpg");
+    height: 1000px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 100%;
+    background-attachment: fixed;
+    opacity: 0.8;
+}
+
+.body3{
+    background: black;
+    padding-top: 20px;
+    background-image: url("../img/chapie.jpg");
+    height: 1000px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 100%;
+    background-attachment: fixed;
+    opacity: 0.8;
+}
+.body4{
+    background: black;
+    padding-top: 20px;
+    background-image: url("../img/html5.jpg");
+    height: 1000px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 100%;
+    background-attachment: fixed;
+    opacity: 0.8;
+}
+.body5{
+    background: black;
+    padding-top: 20px;
+    background-image: url("../img/dj2.jpg");
+    height: 1000px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 100%;
+    background-attachment: fixed;
+    opacity: 0.8;
+}
+
+body{
+    
+    background: #EEEEEE;
+}
+.n {
+    background-color: #222;
+    border-color: #080808;
+    background: #212121;
+    opacity: 0.8;
+    border: 1px solid trasparency¡ ;
+}
+
+
+.header {
+    color:white;
+	margin-top: 0px;
+	padding-top: 12px;
+	background-image: url("../img/robot.jpg");
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 14px;
+    line-height: 1.42857143;
+    
+    background-color: #fff;
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 100%;
+    height: 700px;
+    opacity: 0.9;
+    
+}
+
+
+.navbar {
+    position: relative;
+    min-height: 50px;
+    margin-bottom: 20px;
+    border: 1px solid transparent;
+}
+
+
+.content{
+    text-align: center;
+    width: 20%;
+    transform-style: preserve-3d;
+    -webkit-transform: perspective(700px);
+    
+    height: 50px;
+}
+.card{
+    height: 50px;
+    width: 50px;
+    border-radius: 5px;
+    font-size: 2em;
+    font-weight: bolder;
+    line-height: 50px;
+    background: rgba(10,10,0,9);
+    position: absolute;
+    border: 1px solid white;
+}
+.rueda{
+    transform-style: preserve-3d;
+    margin-top: 130px;
+    height: 50px;
+    width: 50px;
+
+}
+.c1{
+    border: 1px solid trasparency¡ ;
+    -webkit-transform: rotateX(0deg) translateZ(90px);
+}
+.c2{
+    border: 1px solid trasparency¡ ;
+    -webkit-transform: rotateX(36deg) translateZ(90px);
+}
+.c3{
+    -webkit-transform: rotateX(72deg) translateZ(90px);
+}
+.c4{
+    -webkit-transform: rotateX(108deg) translateZ(90px);
+}
+.c5{
+    -webkit-transform: rotateX(144deg) translateZ(90px);
+}
+.c6{
+    -webkit-transform: rotateX(180deg) translateZ(90px);
+}
+.c7{
+    -webkit-transform: rotateX(216deg) translateZ(90px);
+}
+.c8{
+    -webkit-transform: rotateX(252deg) translateZ(90px);
+}
+.c9{
+    -webkit-transform: rotateX(288deg) translateZ(90px);
+}
+.c0{
+    -webkit-transform: rotateX(324deg) translateZ(90px);
+}
+
+
+#seconds2{
+    -webkit-animation: giro 10s infinite linear;
+}
+@-webkit-keyframes giro{
+    0%,8%{
+        -webkit-transform: rotateX(0deg);
+    }
+    10%,18%{
+        -webkit-transform: rotateX(-36deg);
+    }
+    20%,28%{
+        -webkit-transform: rotateX(-72deg);
+    }
+    30%,38%{
+        -webkit-transform: rotateX(-108deg);
+    }
+    40%,48%{
+        -webkit-transform: rotateX(-144deg);
+    }
+    50%,58%{
+        -webkit-transform: rotateX(-180deg);
+    }
+    60%,68%{
+        -webkit-transform: rotateX(-216deg);
+    }
+    70%,78%{
+        -webkit-transform: rotateX(-252deg);
+    }
+    80%,88%{
+        -webkit-transform: rotateX(-288deg);
+    }
+    90%,98%{
+        -webkit-transform: rotateX(-324deg);
+    }
+    100%{
+        -webkit-transform: rotateX(-360deg);
+    }
+}
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+
+
+
+
+footer{
+    background-color: #29B6F6;
+    text-align: center;
+    margin-bottom: 0px;
+    height: 100px
+}
+body{
+    padding-bottom: 0px;
+    opacity: 0,7;
+}
+
+
+
+
